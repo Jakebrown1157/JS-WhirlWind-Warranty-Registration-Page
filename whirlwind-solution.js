@@ -79,7 +79,7 @@ function createWarrantyPage(){
     element.innerHTML = 'City'
     document.body.appendChild(element);
     
-label = document.createElement('label');
+    label = document.createElement('label');
     label.innerHTML = "State"
     document.body.appendChild(label);
     element = document.createElement('input');
